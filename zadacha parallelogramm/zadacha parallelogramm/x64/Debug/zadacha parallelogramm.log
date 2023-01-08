@@ -1,0 +1,6 @@
+﻿  Parallelogramm.cpp
+C:\Users\Админ\source\repos\zadacha parallelogramm\zadacha parallelogramm\Parallelogramm.cpp(9,8): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\Админ\source\repos\zadacha parallelogramm\zadacha parallelogramm\Parallelogramm.cpp(11,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  zadacha parallelogramm.cpp
+  Создание кода...
+  zadacha parallelogramm.vcxproj -> C:\Users\Админ\source\repos\zadacha parallelogramm\x64\Debug\zadacha parallelogramm.exe

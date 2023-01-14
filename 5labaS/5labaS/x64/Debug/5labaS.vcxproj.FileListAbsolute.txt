@@ -1,0 +1,4 @@
+C:\Users\Админ\source\repos\5labaS\5labaS\x64\Debug\5labaS.vcxproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\5labaS\5labaS\x64\Debug\5labaS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\5labaS\5labaS\x64\Debug\My5labaS.MyForm.resources
+C:\Users\Админ\source\repos\5labaS\5labaS\x64\Debug\5labaS.vcxproj.GenerateResource.cache
